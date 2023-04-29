@@ -1,0 +1,62 @@
+/* .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.menu {
+  display: flex;
+  align-items: center;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.header__block {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.header__link {
+  color: #2f3035;
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-decoration: none;
+}
+.header__logo {
+  height: 76px;
+  width: 80px;
+  left: 920px;
+  top: 25px;
+  border-radius: 0px;
+  padding-left: 55px;
+}
+li:last-child {
+  margin-left: 80px;
+}
+.header__cart {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #2f3035;
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 30px;
+}
+.header__cart img {
+  margin-right: 10px;
+  height: 24px;
+}
+.header__cart span {
+  margin-left: 5px;
+} */

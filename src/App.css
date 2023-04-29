@@ -1,0 +1,22 @@
+.container {
+  max-width: 1171px;
+  margin: 0 auto;
+  padding: 10px;
+}
+body {
+  background: #e5e5e5;
+}
+.goods {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 300px);
+  gap: 50px;
+}
+@media (max-width: 450px) {
+  .goods {
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+.filter-block {
+  margin-bottom: 50px;
+}

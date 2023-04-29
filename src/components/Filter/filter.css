@@ -1,0 +1,20 @@
+/* .filter__main {
+  display: flex;
+  justify-content: space-between;
+  background: #f0f0f4;
+  align-items: center;
+  padding: 15px 10px;
+}*/
+
+.filter div {
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: capitalize;
+  color: #2f3035;
+  cursor: pointer;
+  position: relative;
+}
+
+.filter div:hover {
+  font-weight: bold;
+}
